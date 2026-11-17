@@ -192,6 +192,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*ICARUS · Updated 2026-11-16 · Shared under the MIT License*
+*ICARUS · Updated 2026-11-17 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-16 -->
+<!-- last reviewed 2026-11-17 -->
